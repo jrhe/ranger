@@ -1,4 +1,5 @@
 {
+  "name": "tanstack-ranger",
   "version": "0.0.1",
   "private": true,
   "repository": "https://github.com/tanstack/ranger.git",
