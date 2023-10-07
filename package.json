@@ -1,6 +1,6 @@
 {
-  "name": "tanstack-ranger",
-  "version": "0.0.1",
+  "name": "@tanstack/react-ranger",
+  "version": "0.0.2",
   "private": true,
   "repository": "https://github.com/tanstack/ranger.git",
   "scripts": {
